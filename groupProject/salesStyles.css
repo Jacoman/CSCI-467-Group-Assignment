@@ -1,0 +1,35 @@
+header{
+        background: #262626;
+        padding-top: 15px;
+        padding-bottom:15px;
+        border-radius: 20px;
+}
+
+header h1{
+        padding-left: 40px;
+        color: F2EFDF;
+}
+nav{
+        padding-top:10px
+        float: right;
+        background: #F2BF80
+
+}
+nav li{
+        display: inline-block;
+        font-family: helvetica;
+        padding-top: 15px;
+        padding-bottom:15px;
+        padding-right: 40px
+}
+nav ul{
+        font-family: helvetica;
+        color:F2EFDF;
+}
+body{
+        margin 0;
+        background: #F2EFDF;
+}
+
+
+
